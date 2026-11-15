@@ -1,0 +1,25 @@
+{
+  "name": "training",
+  "displayName": "Training",
+  "version": "1.0.0",
+  "description": "Strength training reference: how to set up and perform an exercise, the muscles it works, common mistakes, safety notes, home or gym substitutions, and what gym and home equipment is for. Read-only general reference; no personal or medical advice.",
+  "author": {
+    "name": "Arnold Training App",
+    "url": "https://arnoldtrainingapp.com"
+  },
+  "homepage": "https://mcp.arnoldtrainingapp.com/docs-training",
+  "keywords": [
+    "training",
+    "strength training",
+    "exercises",
+    "equipment",
+    "workout"
+  ],
+  "icon": "./logo.png",
+  "documentationUrl": "https://mcp.arnoldtrainingapp.com/docs-training",
+  "supportUrl": "https://arnoldtrainingapp.com/support",
+  "privacyPolicyUrl": "https://arnoldtrainingapp.com/privacy",
+  "termsOfServiceUrl": "https://arnoldtrainingapp.com/terms",
+  "license": "MIT",
+  "repository": "https://github.com/1genadam/training-plugin"
+}
